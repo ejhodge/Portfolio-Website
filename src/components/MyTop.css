@@ -1,0 +1,36 @@
+.topTitle {
+    padding: 0 64px;
+    padding-left: 0px;
+    margin-top: 50px;
+    text-align: left;
+}
+
+.img {
+ height: 97px;
+ width: 103px;
+ border-radius: 20px;
+ object-fit: cover;
+}
+
+.myTop {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 220px;
+    margin-bottom: 142px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 480px;
+}
+
+.rowTwo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 480px;
+    margin-top: 37px;
+}

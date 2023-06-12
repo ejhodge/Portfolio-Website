@@ -1,0 +1,46 @@
+.navRow {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    padding: 0 10px;
+    box-sizing: border-box;
+    max-width: 1300px;
+}
+
+.titleName {
+    color: #2B948E;
+    font-size: 40px;
+    font-weight: 700;
+    width: 135px;
+    height: 60px;
+    margin: 0;
+    margin-right: auto;
+    transition-duration: .3s;
+}
+
+.titleName:hover {
+ color: white;
+ cursor: pointer;
+}
+
+.titleName:active {
+    color: #9d9d9d;
+}
+
+.navLinks {
+    padding: 0 18px;
+    margin: 0;
+    color: white;
+    transition-duration: .3s;
+    text-decoration: none;
+}
+
+.navLinks:hover {
+    cursor: pointer;
+    color: #2B948E;
+}
+
+.navLinks:active {
+    color: #1e6b67;
+}

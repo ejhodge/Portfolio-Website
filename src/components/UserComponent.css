@@ -1,0 +1,21 @@
+.personalDetails {
+    z-index: 3;
+    padding: 5px;
+    margin-top: 50px;
+    font-weight: 700;
+}
+
+.about {
+    font-size: 25px;
+    color: #2B948E;
+}
+
+b {
+    color: white;
+    font-size: 25px;
+}
+
+.pD {
+    padding: 0%;
+    text-align: left;
+}
