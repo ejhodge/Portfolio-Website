@@ -57,7 +57,7 @@ export default class MySkills extends React.Component <{}> {
                 </div>
             </div>
             <div className="exampleButton">
-                <a className="e1Link" href="https://github.com/ejhodge/Portfolio-Website.git">
+                <a className="e1Link" href="https://github.com/ejhodge/Portfolio-Website">
                     <button className="e1">See Code</button>
                 </a>
                 <a className="e2Link" href="https://github.com/ejhodge/My-api">
